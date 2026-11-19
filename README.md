@@ -30,8 +30,8 @@ humor      : renderizando...
 **01 //** nutcracker simulator — jogo no roblox, luau + rojo  
 **02 //** gamevault — biblioteca de jogos fullstack  
 **03 //** meusaldo — controle financeiro em next.js  
-**04 //** o eremita — site de agendamento pra barbearia e estúdio de tattoo  
-**05 //** otimizadô — app otimizador de pc
+**04 //** o eremita — site de agendamento pra barbearia e estúdio de tattoo
+
 
 <img src="./assets/divisor.svg" width="100%" alt="">
 
