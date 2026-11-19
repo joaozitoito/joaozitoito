@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <img src="./assets/header.svg" width="100%" alt="joao vitor goes — joaozitoito">
 
 <p align="center">
@@ -45,21 +44,3 @@ passou por aqui? [deixa um recado](https://github.com/joaozitoito/joaozitoito/is
 </p>
 
 <img src="./assets/footer.svg" width="100%" alt="volte sempre">
-=======
-## Hi there 👋
-
-<!--
-**joaozitoito/joaozitoito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
->>>>>>> 1855b251331c6181c5d9bd563cb2cc11ebba7b84
