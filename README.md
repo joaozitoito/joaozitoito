@@ -19,7 +19,7 @@
 <a href="https://github.com/joaozitoito/joaozitoito/issues/new?title=recado&body=deixa%20teu%20recado%20aqui"><img src="./assets/mural.svg" width="100%" alt="mural: clica e deixa teu recado"></a>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=joaozitoito&label=olhos%20que%20passaram%20por%20aqui&color=e8e6e1&style=flat-square&labelColor=0b0b0b" alt="olhos que passaram por aqui">
+  <img src="https://komarev.com/ghpvc/?username=joaozitoito&label=olhos%20que%20passaram%20por%20aqui&color=e8e6e1&style=flat-square&labelColor=010409" alt="olhos que passaram por aqui">
 </p>
 
 <img src="./assets/rodape.svg" width="100%" alt="volte sempre">
